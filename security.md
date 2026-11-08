@@ -151,4 +151,4 @@ and a missing Visual C++ runtime.
 
 ---
 
-*Destiny 2 · Updated 2026-11-07 · Shared under the MIT License*
+*Destiny 2 · Updated 2026-11-08 · Shared under the MIT License*
